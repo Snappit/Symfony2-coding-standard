@@ -41,7 +41,7 @@
     <rule ref="Squiz.ControlStructures.LowercaseDeclaration"/>
     <rule ref="Squiz.PHP.LowercasePHPFunctions"/>
     <rule ref="Squiz.Scope.MemberVarScope"/>
-    <rule ref="Squiz.Strings.ConcatenationSpacing"/>
+    <!-- Too strict. rule about not spacings on . concat rule ref="Squiz.Strings.ConcatenationSpacing"/ -->
 
     <!-- We provide our own subclass of PEAR's ClassComment and FunctionComment sniff, but these will do: -->
     <rule ref="PEAR.Commenting.InlineComment"/>
