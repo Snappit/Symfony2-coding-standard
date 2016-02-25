@@ -6,10 +6,10 @@
  *
  * @category PHP
  * @package  PHP_CodeSniffer-Symfony2
- * @author   Symfony2-phpcs-authors <Symfony2-coding-standard@escapestudios.github.com>
+ * @author   Symfony2-phpcs-authors <Symfony2-coding-standard@snappit.github.com>
  * @license  http://spdx.org/licenses/MIT MIT License
  * @version  GIT: master
- * @link     https://github.com/escapestudios/Symfony2-coding-standard
+ * @link     https://github.com/Snappit/Symfony2-coding-standard
  */
 
 if (class_exists('PEAR_Sniffs_Commenting_FunctionCommentSniff', true) === false) {

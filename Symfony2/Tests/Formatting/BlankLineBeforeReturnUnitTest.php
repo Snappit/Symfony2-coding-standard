@@ -6,10 +6,10 @@
  *
  * @category PHP
  * @package  PHP_CodeSniffer-Symfony2
- * @author   Symfony2-phpcs-authors <Symfony2-coding-standard@escapestudios.github.com>
+ * @author   Symfony2-phpcs-authors <Symfony2-coding-standard@snappit.github.com>
  * @license  http://spdx.org/licenses/MIT MIT License
  * @version  GIT: master
- * @link     https://github.com/escapestudios/Symfony2-coding-standard
+ * @link     https://github.com/Snappit/Symfony2-coding-standard
  */
 
 /**
@@ -23,7 +23,7 @@
  * @author    Tom Klingenberg <tklingenberg@lastflood.net>
  * @copyright 2012 Tom Klingenberg, some rights reserved.
  * @license   http://spdx.org/licenses/MIT MIT License
- * @link      https://github.com/escapestudios/Symfony2-coding-standard
+ * @link      https://github.com/Snappit/Symfony2-coding-standard
  */
 class Symfony2_Tests_Formatting_BlankLineBeforeReturnUnitTest extends AbstractSniffUnitTest
 {

@@ -9,7 +9,7 @@
  * @author   wicliff wolda <dev@bloody-wicked.com>
  * @license  http://spdx.org/licenses/MIT MIT License
  * @version  GIT: master
- * @link     https://github.com/escapestudios/Symfony2-coding-standard
+ * @link     https://github.com/Snappit/Symfony2-coding-standard
  */
 
 /**
@@ -22,7 +22,7 @@
  * @package  PHP_CodeSniffer-Symfony2
  * @author   wicliff wolda <dev@bloody-wicked.com>
  * @license  http://spdx.org/licenses/MIT MIT License
- * @link     https://github.com/escapestudios/Symfony2-coding-standard
+ * @link     https://github.com/Snappit/Symfony2-coding-standard
  */
 class Symfony2_Sniffs_Arrays_MultiLineArrayCommaSniff
     implements PHP_CodeSniffer_Sniff
